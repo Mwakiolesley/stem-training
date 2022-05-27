@@ -8,9 +8,11 @@ Building a complex calc using python
 ## Day four
 control flow
 ## Day five 
-creating lists, turples and sets
-## Day six 
-Dictionaries
+KUCCPS meeting
+## Day six
+list turples and sets
 ## Day seven
+Dictionaries
+## Day eight
 Object oriented programming
 
