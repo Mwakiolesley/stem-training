@@ -7,4 +7,7 @@ Data manipulation
 Building a complex calc using python
 ## Day four
 control flow
-
+## Day five 
+creating lists, turples and sets
+## Day six 
+Dictionaries
